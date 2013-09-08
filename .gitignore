@@ -1,1 +1,4 @@
-.swp
+*.swp
+img/*.png
+img/*.jpeg
+img/*.jpg
